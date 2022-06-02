@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imbeshat
-- 👀 I’m interested in Ethical Hacking
+- 👀 I’m interested in Ethical Hacking & Web Development
 - 🌱 I’m currently learning the same
 - 💞️ I’m looking to collaborate on the same
 - 📫 How to reach me md.imbeshat@gmail.com
