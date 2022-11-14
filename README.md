@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imbeshat
+- 👋 Hi, I’m Imbeshat
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the same
 - 💞️ I’m looking to collaborate on the same
