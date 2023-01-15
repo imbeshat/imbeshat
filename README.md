@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imbeshat&label=Profile%20views&color=1C8D73&style=plastic" alt="imbeshat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imbeshat7" target="blank"><img src="https://img.shields.io/twitter/follow/imbeshat7?logo=twitter&style=for-the-badge" alt="imbeshat7" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **the same**
 
-- 📝 I regularly write articles on [https://imbeshat.hashnode.dev/](https://imbeshat.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://imbeshat.hashnode.dev/)
 
 - 📫 How to reach me **md.imbeshat@gmail.com**
 
