@@ -37,4 +37,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-
+![imbeshat-github-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imbeshat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![imbeshat-most-languages-used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=imbeshat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![imbeshat-github-streak](https://github-readme-streak-stats.herokuapp.com/?user=imbeshat&theme=radical&hide_border=false)
