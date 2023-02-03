@@ -11,14 +11,14 @@
 
 - 📫 How to reach me **md.imbeshat@gmail.com**
 
-# 🌐 Socials:
+# 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imbeshataslam7) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imbeshat7) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imbeshat7)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23ffa116.svg?logo=Leetcode&logoColor=white)](https://www.leetcode.com/imbeshat)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Imbeshat-Aslam-1) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
@@ -36,5 +36,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
-
+# 📊 GitHub Stats :
+![imbeshat-github-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imbeshat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![imbeshat-most-languages-used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=imbeshat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![imbeshat-github-streak](https://github-readme-streak-stats.herokuapp.com/?user=imbeshat&theme=radical&hide_border=false)
