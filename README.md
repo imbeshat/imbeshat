@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imbeshat Aslam</h1>
 <h3 align="center">A Web Development Enthusiast!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imbeshat&label=Profile%20views&color=1C8D73&style=plastic" alt="imbeshat" /> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **the same**
