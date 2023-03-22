@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imbeshat Aslam</h1>
-<h3 align="center">A Web Development Enthusiast!!</h3>
+<img src="https://github.com/imbeshat/imbeshat/blob/main/asset/github-header-image.png" align="center" style="width: 100%" />
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -9,14 +8,14 @@
 
 - 📫 How to reach me **md.imbeshat@gmail.com**
 
-# 🌐 Socials :
+## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imbeshataslam7) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imbeshat7) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imbeshat7)
 <!--[![Leetcode](https://img.shields.io/badge/Leetcode-%23ffa116.svg?logo=Leetcode&logoColor=white)](https://www.leetcode.com/imbeshat)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Imbeshat-Aslam-1) -->
 
-# 💻 Tech Stack :
+## 💻 Tech Stack :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
@@ -34,5 +33,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats :
+## 📊 GitHub Stats :
 
+## Blogs 👇
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
