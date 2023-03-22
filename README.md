@@ -1,4 +1,4 @@
-<img src="https://github.com/imbeshat/imbeshat/blob/main/asset/header-image-github.png" align="center" style="width: 100%" />
+<img src="https://github.com/imbeshat/imbeshat/blob/main/asset/header-github-image.png" align="center" style="width: 100%" />
 
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **the same**
