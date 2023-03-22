@@ -1,11 +1,8 @@
 <img src="https://github.com/imbeshat/imbeshat/blob/main/asset/github-header-image.png" align="center" style="width: 100%" />
 
 - 🌱 I’m currently learning **Web Development**
-
 - 👯 I’m looking to collaborate on **the same**
-
-- 📝 I regularly write articles on [Hashnode](https://imbeshat.hashnode.dev/)
-
+- 📝 I write articles on [Hashnode](https://imbeshat.hashnode.dev/)
 - 📫 How to reach me **md.imbeshat@gmail.com**
 
 ## 🌐 Socials :
@@ -32,10 +29,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats :
-
-## Blogs 👇
+ 
+<details>
+<summary><h3>📊 GitHub Stats :</h3></summary>
+     
+![imbeshat-github-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imbeshat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![imbeshat-most-languages-used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=imbeshat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+![imbeshat-github-streak](https://github-readme-streak-stats.herokuapp.com/?user=imbeshat&theme=radical&hide_border=false)  
+</details>
+  
+## 📖 Blogs :
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://imbeshat.hashnode.dev//prototype-and-prototype-chaining-in-javascript" title="Prototype and Prototype chaining in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673893796352/e3fea56c-b509-4f41-a748-0ef8ffea9b09.png" alt="Prototype and Prototype chaining in JavaScript" width="250px" align="left" /></a>
